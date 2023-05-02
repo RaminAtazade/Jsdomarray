@@ -1,0 +1,36 @@
+.window{
+   align-items: center; 
+   margin: 12.2%;
+   width: 68%;
+   height: 60vh;
+   background-color: rgb(65, 196, 130);
+   position: fixed;
+   border-radius: 40px;
+   top:0;
+} 
+.justify-content-end{
+   gap: 10px
+}
+.custom-container{
+   width: 60%;
+   margin: 0 20%;
+}
+.card-body{
+   background-color: rgb(71, 208, 110);
+   border-color: transparent;
+}
+/* Cinsiyyete rengli inputblalala */
+#btnfemale{
+  background-color: rgb(255, 0, 208);
+  border-color: transparent;
+}
+#btnmale{
+  background-color: rgb(13, 132, 192);
+  border-color: transparent;
+}
+ input[type="text"]{
+   color: black
+ }
+ 
+  
+ 
